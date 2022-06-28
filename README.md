@@ -1,2 +1,2 @@
-# projeto-dio-instagram
-Entrega Projeto DIO Instagram
+# Projeto DIO - Instagram
+Entrega do projeto DIO
